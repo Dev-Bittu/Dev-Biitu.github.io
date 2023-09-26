@@ -18,11 +18,11 @@ To run this website on your local machine, follow these steps:
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/dev-bittu.github.io
+git clone https://github.com/dev-bittu/dev-bittu_portfolio
 ```
 2. Navigate to the project directory:
 ```bash
-cd dev-bittu.github.io
+cd dev-bittu_portfolio
 ```
 3. Open the index.html file in your web browser.
 
