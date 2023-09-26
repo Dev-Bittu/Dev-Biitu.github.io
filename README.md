@@ -1,6 +1,6 @@
 # Portfolio Website
 This is a static website created as a portfolio to showcase my work and skills.
-The website is published on Github pages and can be accessed at [https://dev-bittu.github.io/](https://dev-bittu.github.io/).
+The website is published on Github pages and can be accessed at [https://dev-bittu.github.io/](https://dev-bittu.github.io/dev-bittu_portfolio).
 
 ## Technologies Used
 The website is built using HTML, CSS, and JavaScript.
